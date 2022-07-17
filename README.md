@@ -12,6 +12,7 @@ Features
   - Read: "Tries to make it look as good as possible".
 - Easy on-screen prompts to change offset and length of webm rendering. No editing necessary to extract "that one good part".
 - Simplified resolution setup. Simply put in the desired vertical resolution ( ie. 720 ) and the script does the rest. Maintains aspect ratio aswell of course.
+- Can enable or disable audio via on-screen prompt
 
 Usage
 -----
